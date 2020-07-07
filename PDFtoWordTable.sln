@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PDFtoWordTable", "PDFtoWordTable\PDFtoWordTable.vbproj", "{703BA152-7806-4F20-9219-1B73E4C3A085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703BA152-7806-4F20-9219-1B73E4C3A085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703BA152-7806-4F20-9219-1B73E4C3A085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703BA152-7806-4F20-9219-1B73E4C3A085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703BA152-7806-4F20-9219-1B73E4C3A085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00305BD5-E7C6-4A1C-B73B-5CE9CE9B721E}
+	EndGlobalSection
+EndGlobal
